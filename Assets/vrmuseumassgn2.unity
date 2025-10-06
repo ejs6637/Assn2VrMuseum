@@ -1961,6 +1961,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fd3d3ceb791bde45b88f41d56f83d01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FriesInfoSub: {fileID: 0}
+  targetTag: Player
 --- !u!1 &315782343
 GameObject:
   m_ObjectHideFlags: 0
@@ -2615,6 +2617,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfda5a8e0e5f4bd4492719dc7e54b6e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  HotdogInfoSub: {fileID: 0}
+  targetTag: Player
 --- !u!1 &406700995
 GameObject:
   m_ObjectHideFlags: 0
@@ -5112,6 +5116,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f173ed617946ff943aae8dba5c41ec4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ChickenInfoSub: {fileID: 0}
+  targetTag: Player
 --- !u!1001 &774609389
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5687,7 +5693,7 @@ Transform:
   m_GameObject: {fileID: 871942670}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -10, y: -4.8, z: 0}
+  m_LocalPosition: {x: -10, y: 4.92, z: 0}
   m_LocalScale: {x: 20, y: 10, z: 0.3}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6966,6 +6972,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9578d81c52d762645884b3545f7d219e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  SushiInfoSub: {fileID: 0}
+  targetTag: Player
 --- !u!1 &1107818055
 GameObject:
   m_ObjectHideFlags: 0
@@ -8379,6 +8387,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce3b575ef93371e44af8e1a56d9d5881, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PizzaInfoSub: {fileID: 0}
+  targetTag: Player
 --- !u!1 &1310511763
 GameObject:
   m_ObjectHideFlags: 0
@@ -8818,6 +8828,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b7c73b5ab4290440878ec5377f793cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  DonutInfoSub: {fileID: 0}
+  targetTag: Player
 --- !u!1 &1355581799
 GameObject:
   m_ObjectHideFlags: 0
@@ -9128,6 +9140,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33f18019c5f0d6347a042736b46e4e51, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  EclairInfoSub: {fileID: 0}
+  targetTag: Player
 --- !u!1001 &1390953146
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11584,6 +11598,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3677a9ad35c0dbb4b89f81396792243d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  BurgerInfoSub: {fileID: 0}
+  targetTag: Player
 --- !u!114 &1856745736
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12465,6 +12481,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b097e704126591d4bada0a4b83f3ff13, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ChiliInfoSub: {fileID: 0}
+  targetTag: Player
 --- !u!1 &2086596706
 GameObject:
   m_ObjectHideFlags: 0
